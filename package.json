@@ -1,0 +1,14 @@
+{
+  "name": "springwebpush",
+  "version": "1.0.0",
+  "description": "yuna spring webpush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coalcellar",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^7.16.1"
+  }
+}
